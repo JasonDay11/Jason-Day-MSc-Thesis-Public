@@ -1,0 +1,2 @@
+id,single_end,read1,read2
+A2_test_NEA56_Contig1,false,/home/jasonday/Barenbrug_Nextflow_Pipeline/main/data/A2_test_R1.fastq.gz,/home/jasonday/Barenbrug_Nextflow_Pipeline/main/data/A2_test_R2.fastq.gz
