@@ -2,7 +2,7 @@ Barenbrug_NF_Pipeline
 
 Automated Nextflow Pipeline for Variant Discovery and KASP Marker Development
 
-This pipeline was designed by JASON CHARLES DAY as part of his MSc Thesis at The Centre for Bioinformatics and Computational Biology, Stellenbosch University, South Africa. The files required to run the pipeline are stored in a private repository and are available on request.
+This pipeline was designed by JASON CHARLES DAY as part of his MSc Thesis at The Centre for Bioinformatics and Computational Biology, Stellenbosch University, South Africa.
 
 This pipeline is designed to discover high quality SNPs with the potential for use as KASP markers. The concept is split into two separate pipelines, both producing a set of sequences containing the relevant SNPs with surrounding sequence in a format that is suitable for KASP primer design submission as required by Barenbrug NZ. 
 
