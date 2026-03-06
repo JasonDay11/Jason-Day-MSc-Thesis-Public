@@ -171,6 +171,6 @@ Variant filtering:
 
 Default: local Docker execution
 
-Execution profile frmeworks exist for HPC-based runs and testing runs requring minimal resources, however need to be further fine tuned.
+Execution profile frameworks exist for HPC-based runs and testing runs requring minimal resources, however need to be further fine tuned.
 
 Docker is enabled by default in both streams and is requried to be running on the system.
